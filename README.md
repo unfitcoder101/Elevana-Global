@@ -1,4 +1,4 @@
-# LEVRA - Digital Marketing Agency
+# Elevana Global - Digital Marketing Agency
 
 A modern digital marketing agency website built with React, TypeScript, and Supabase.
 
