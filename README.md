@@ -4,6 +4,8 @@ A modern digital marketing agency website built with React, TypeScript, and Supa
 
 > Formerly named Elevana Global — rebranded to Levra.
 
+**Live site:** [https://preview--levra.lovable.app/](https://preview--levra.lovable.app/)
+
 ## Features
 
 - **Modern Landing Page** — Responsive design with animations and testimonials
